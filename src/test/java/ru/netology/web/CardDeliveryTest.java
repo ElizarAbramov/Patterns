@@ -6,7 +6,7 @@ import com.codeborne.selenide.Selectors;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.Keys;
-import ru.netology.domain.RegistrationInfo;
+
 
 import java.time.Duration;
 import java.time.LocalDate;
